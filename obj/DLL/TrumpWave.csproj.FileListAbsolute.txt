@@ -1,0 +1,4 @@
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\bin\DLL\TrumpWave.exe
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\bin\DLL\JsonFx.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\bin\DLL\Sifteo.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\obj\DLL\TrumpWave.exe

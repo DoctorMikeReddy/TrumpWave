@@ -1,0 +1,5 @@
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\bin\Release\TrumpWave.exe
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\bin\Release\JsonFx.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\bin\Release\Sifteo.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\obj\x86\Release\TrumpWave.exe
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\TrumpWave\obj\x86\Release\TrumpWave.csprojResolveAssemblyReference.cache

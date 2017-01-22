@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D5798996-A44F-443E-81C2-7F421CA9D2FB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrumpWaveApp.cs">
+    <Files>
+      <File FileName="TrumpWaveApp.cs" Line="262" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrumpWave" expanded="True" selected="True">
+            <Node name="TrumpWave" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrumpWave PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

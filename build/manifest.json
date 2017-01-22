@@ -1,0 +1,16 @@
+{"app": {
+    "title": "02. Slide Show",
+    "description": "This demo app displays a series of images on your Sifteo cubes. Different gestures trigger different actions on the images: <ul> <li>Press: Switch to the next image</li> <li>Neighbor: rotate the image</li> <li>Tilt: offset the image</li> <li>Shake: rotate the image randomly</li> <li>Flip: scale the image</li> </ul>",
+    "version": "1.0.0",
+    "runtime" : "executable",
+		"assembly":"02_TrumpWave.dll",
+    "appModule": "UNUSED",
+    "devAppID": 1100002,
+    "requiredSiftCount": 1,
+    "imagesPath": "assets/images",
+    "soundsPath": "assets/sounds",
+    "instructions": "assets/instructions",
+    "coverArt": "coverArt.png",
+    "internalArt": "internalArt.png"
+  }
+}

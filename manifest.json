@@ -1,0 +1,16 @@
+{"app": {
+    "title": "Trump Wave",
+    "description": "This game presents the current DEFCON status on your Sifteo cubes. Stop Trump from exploding: <ul><li>Press Trump: Start the Game</li> <li>Player 1: Flip the cubes over in DEFCON order 5,4,3,2,1</li><li>Player 2: Flip them back again in reverse order to de-escalate the emergency</li></ul>", 
+    "version": "1.0.0",
+    "runtime" : "executable",
+    "server" : "127.0.0.1:7000",
+    "arguments": ["-x", "-y"],
+    "appModule": "1100005",
+    "requiredSiftCount": 6,
+    "imagesPath": "assets/images",
+    "soundsPath": "assets/sounds",
+    "instructions": "assets/instructions",
+    "coverArt": "coverArt.png",
+    "internalArt": "internalArt.png"
+  }
+}
